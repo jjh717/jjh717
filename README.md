@@ -15,7 +15,8 @@ UIKit과 SwiftUI 어느 쪽이든 프로덕션 레벨로 구현하는 걸 목표
 
 #### 📁 Portfolio
 
-- **[Portfolio 레포](https://github.com/jjh717/Portfolio)** — 실무 프로젝트 정리 (라이브커머스 / 해외숙소 / A/B 테스트 / iOS 파트 리드 경험)
+- **[Portfolio 레포](https://github.com/jjh717/Portfolio)** — 실무 프로젝트 정리 (라이브커머스 / 해외숙소 / A/B 테스트 / AI MR 리뷰 자동화 / iOS 파트 리드 경험)
+- **[AI MR 리뷰 자동화 시스템](https://github.com/jjh717/Portfolio/blob/main/docs/ai-mr-review-system.md)** — GitLab MR을 자동 감지해 AI 리뷰 초안을 만들고 사람이 확인한 것만 등록. 피드백 루프로 리뷰어를 닮아가는 개인용 시스템, 구성·운영·사고 기록
 - **[Notion 포트폴리오](https://ginger-paw-ca6.notion.site/Portfolio-3fc6fdcebdd546f7b0aca42876643182)** — 상세 버전
 
 #### 🔍 대표 개인 프로젝트
